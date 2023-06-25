@@ -2,11 +2,11 @@
 My name is Christopher Koster and I'm the Founder & CEO of Koster Group. I'm from the United States, living in Louisiana and currently working at my local law enforcement agency. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 # 📊 Github Stats
-<a href="https://github.com/quitekoster/quitekoster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quitekoster&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/ShyMischief/ShyMischief">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyMischief&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/quitekoster/quitekoster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quitekoster&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Christopher's GitHub Stats" />
+<a href="https://github.com/ShyMischief/ShyMischief">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShyMischief&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Christopher's GitHub Stats" />
 </a>   
 
 <!-- links to social media icons -->
